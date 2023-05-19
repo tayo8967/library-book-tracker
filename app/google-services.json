@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735427156166",
+    "project_id": "librarybooktrackerdb",
+    "storage_bucket": "librarybooktrackerdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735427156166:android:19848da2c86bd617505fc7",
+        "android_client_info": {
+          "package_name": "com.example.librarybooktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735427156166-rev528nmqscp29komhe3tsnt36ekhbn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlRlI1Rbi4ltsnnjLDRY4MdeewNmRTwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735427156166-rev528nmqscp29komhe3tsnt36ekhbn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
